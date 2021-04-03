@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This 
+What is this site about?
